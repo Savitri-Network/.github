@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.savitri.network"><img src="https://img.shields.io/badge/Docs-docs.savitri.network-0f3460?style=for-the-badge" alt="Documentation"/></a>&nbsp;
+  <a href="https://docs.savitrinetwork.com"><img src="https://img.shields.io/badge/Docs-docs.savitrinetwork.com-0f3460?style=for-the-badge" alt="Documentation"/></a>&nbsp;
   <a href="https://discord.gg/savitri"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=fff" alt="Discord"/></a>&nbsp;
   <a href="https://twitter.com/savitri_network"><img src="https://img.shields.io/badge/X-Follow-000?style=for-the-badge&logo=x" alt="Twitter"/></a>
 </p>
