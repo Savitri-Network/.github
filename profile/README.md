@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/savitri-network">
-    <img src="[https://github.com/Savitri-Network/.github/blob/main/assets/savitri-banner.png]" alt="Savitri Network" width="100%"/>
+    <img src="https://github.com/Savitri-Network/.github/blob/main/assets/savitri-banner.png" alt="Savitri Network" width="100%"/>
   </a>
 </p>
 
