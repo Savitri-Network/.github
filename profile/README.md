@@ -41,7 +41,7 @@
 | **Who wins?** | Biggest mining farm | Richest validator | Best-performing node |
 | **Energy** | Nation-sized consumption | Efficient | Efficient |
 | **Centralization** | Hardware cartels | Whale dominance | Meritocratic |
-| **Finality** | ~60 min | ~12 sec | **150 ms** |
+| **Finality** | ~60 min | ~12 sec | **1 sec** |
 
 ---
 
@@ -49,8 +49,8 @@
 
 <table>
 <tr>
-<td align="center"><strong>150 ms</strong><br/><sub>BFT Finality</sub></td>
-<td align="center"><strong>50K TPS</strong><br/><sub>Max Throughput</sub></td>
+<td align="center"><strong>1s</strong><br/><sub>BFT Finality</sub></td>
+<td align="center"><strong>125K TPS</strong><br/><sub>Max Throughput</sub></td>
 <td align="center"><strong>$0</strong><br/><sub>Min Node Cost (phone)</sub></td>
 <td align="center"><strong>2B Fixed</strong><br/><sub>$SAVI Supply</sub></td>
 <td align="center"><strong>0%</strong><br/><sub>Team Unlock at TGE</sub></td>
