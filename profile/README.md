@@ -63,12 +63,12 @@
 
 ### Repositories
 
-| | Repository | What it does | Release
-|---|---|---|
-| ⚙️ | [**savitri-network**](https://github.com/savitri-network/savitri-network) | Monorepo — 13 Rust crates, full blockchain stack | TBD |
+| | Repository | What it does | Release |
+|---|---|---|---|
+| ⚙️ | [**savitri-network**](https://github.com/savitri-network/savitri-network) | Monorepo — 26 Rust crates, full blockchain stack | TBD |
 | 📱 | [**savitri-mobile**](https://github.com/savitri-network/savitri-network/tree/main/savitri-mobile) | Flutter wallet + node monitoring (iOS & Android) | 08/04/2026 |
 | 🛠️ | [**savitri-sdk**](https://github.com/savitri-network/savitri-network/tree/main/savitri-sdk) | Client library, wallet tools, CLI | 04/04/2026 |
-| 🧪 | [**savitri-testnet**](https://github.com/savitri-network/savitri-network/tree/main/savitri-testnet) | Docker testnet with Prometheus + Grafana | 04/04/2026 |
+| 🧪 | [**savitri-testnet**](https://github.com/savitri-network/savitri-network/tree/main/savitri-testnet) | Docker testnet with Prometheus + Grafana + 13 Rust crates | 04/04/2026 |
 | 📖 | [**docs**](https://github.com/savitri-network/docs) | Whitepaper, tokenomics, architecture, guides | 03/04/2026 |
 
 ---
